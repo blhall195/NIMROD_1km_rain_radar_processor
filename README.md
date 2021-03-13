@@ -3,5 +3,4 @@ This MATLAB script processes 1 km resolution composite data from the Met Office'
 The individual NIMROD files must be uncompressed before they can be processed, input the co-ordinates for the bounding box limits you would like to see the rainfall data for the images will then be outputted into a directory of your choice.
 <div align="center">
 ![alt text](https://media4.giphy.com/media/6o7cOlJYROE9btfTVw/giphy.gif)
-<p>Perfectly balanced</p>
 </div>
