@@ -3,5 +3,5 @@ This MATLAB script processes 1 km resolution composite data from the Met Office'
 
 ![alt text](https://media4.giphy.com/media/6o7cOlJYROE9btfTVw/giphy.gif)
 
-Repo includes code that allows you to plot rainfall within a catchemnt area (red bounding box) on a bar chart. 
+Repo also includes code that allows you to plot rainfall within a catchemnt area (red bounding box) on a bar chart. 
 ![giphy](https://user-images.githubusercontent.com/30509293/112377662-f457fc00-8cdd-11eb-8776-e9a3db9a5a54.gif)
